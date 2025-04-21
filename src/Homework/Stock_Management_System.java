@@ -106,7 +106,7 @@ public class Stock_Management_System {
                         }
                     }
                     input.nextLine();
-                    System.out.println("Press Enter to continue...");
+                    System.out.println("Press Enter to continue.....");
                     input.nextLine();
                 }
                 case 3 -> {
